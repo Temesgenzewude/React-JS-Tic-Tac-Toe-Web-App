@@ -28,4 +28,4 @@ This project has instilled a solid foundation in React development principles. I
 
 This project signifies a significant advancement in my React development journey. It demonstrates the ability to not only grasp React fundamentals but also apply them strategically to build a well-structured and interactive application.
 
-![alt text](<1.png>) ![alt text](<2.png>) ![alt text](<3.png>) ![alt text](<4.png>) ![alt text](<5.png>) ![alt text](<6.png>) ![alt text](<7.png>) ![alt text](<8.png>)
+![alt text](<public/1.png>) ![alt text](<public/2.png>) ![alt text](<public/3.png>) ![alt text](<public/4.png>) ![alt text](<public/5.png>) ![alt text](<public/6.png>) ![alt text](<public/7.png>) ![alt text](<public/8.png>)
